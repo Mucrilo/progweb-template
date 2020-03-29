@@ -55,6 +55,7 @@ As seguintes pessoas contribuiram para este projeto:
 
 * [Murilo Pereira dos Santos](https://github.com/Mucrilo)
 * [Rodrigo Mata Spengler](https://github.com/Rodrigo-Mata-Spengler)
+* [João Vitor Piovezam Silva](https://github.com/joaoPiovezam)
 * *.... (liste todos os membros da equipe)*
 
 ## Licença de uso
