@@ -54,6 +54,7 @@ Para usar CalendAR, siga os seguintes passos (exemplos):
 As seguintes pessoas contribuiram para este projeto:
 
 * [Murilo Pereira dos Santos](https://github.com/Mucrilo)
+* [Rodrigo Mata Spengler](https://github.com/Rodrigo-Mata-Spengler)
 * *.... (liste todos os membros da equipe)*
 
 ## Licença de uso
