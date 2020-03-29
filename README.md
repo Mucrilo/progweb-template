@@ -43,9 +43,21 @@ Para usar CalendAR, siga os seguintes passos (exemplos):
 
 * Abra o navegador e digite o seguinte endereço: `http://localhost/....`
 * Ao abrir a aplicação você poderá:
-  * Navegar pelo conteúdo público, ou
-  * Entrar com usuário e senha para ....
-* *Continua ...*  
+  * fazer login como medico/paciente
+  * ou se inscrever na plataforma
+* Para pacientes :
+  * registrar um evento
+  * editar o evento 
+  * compara com os proprios eventos durante um periodo de tempo
+  * criar lembrete de tomar remedios 
+  * lembrete de consulta com seu medico 
+* Para médicos :
+  * registrar paciente
+  * ver as fichas dos pacientes 
+  * comparar os eventos de um paciente durante um periodo de tempo
+  * fazer notações na ficha do paciente 
+  * Definir os remedios de seus pacientes
+  * Definir consultas 
 
 *Descreva as principais atividades, e/ou fluxos, que são possíveis de serem realizadas na aplicação.*
 
