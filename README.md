@@ -2,8 +2,8 @@
 # CalendAR
 
 <!--- Exemplos de badges. Acesse https://shields.io para outras opções. Você pode querer incluir informações de dependencias, build, testes, licença, etc. --->
-![GitHub repo size](https://img.shields.io/github/repo-size/hsborges/progweb-template)
-![GitHub contributors](https://img.shields.io/github/contributors/hsborges/progweb-template)
+![GitHub repo size](https://img.shields.io/github/repo-size/Mucrilo/progweb-template)
+![GitHub contributors](https://img.shields.io/github/contributors/Mucrilo/progweb-template)
 
 <!--- Nome_da_Aplicação é um/uma ... que permite/tem por objetivo/visa/etc .... --->
 CalendAR é um calendário que permite auxiliar portadores de Artrite reumatoide a ter um diário da sua doença, com dores, rigidez, formigamentos, paralisia, perda de função motora, entre outros sintomas visando um maior acompanhamento pelo Reumatologista responsável. 
@@ -59,19 +59,18 @@ Para usar CalendAR, siga os seguintes passos (exemplos):
   * Definir os remedios de seus pacientes
   * Definir consultas 
 
-*Descreva as principais atividades, e/ou fluxos, que são possíveis de serem realizadas na aplicação.*
 
 ## Contribuidores
 
 As seguintes pessoas contribuiram para este projeto:
 
-* [Murilo Pereira dos Santos](https://github.com/Mucrilo)
-* [Rodrigo Mata Spengler](https://github.com/Rodrigo-Mata-Spengler)
 * [João Vitor Piovezam Silva](https://github.com/joaoPiovezam)
 * [Marcos Henrique Neves da Silva](https://github.com/Marcos1055)
+* [Murilo Pereira dos Santos](https://github.com/Mucrilo)
+* [Rodrigo Mata Spengler](https://github.com/Rodrigo-Mata-Spengler)
 
 ## Licença de uso
 
 <!--- Se não tiver certeza de qual, verifique este site: https://choosealicense.com/--->
-Este projeto usa a seguinte licença: [<nome_da_licenca>](<link>).
-*Você também deve criar um arquivo chamado LICENSE no projeto*
+Este projeto usa a seguinte licença: [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0).
+
